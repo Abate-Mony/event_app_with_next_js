@@ -1,4 +1,4 @@
-import Link from "next/Link"
+import Link from "next/link"
 
 import { useState } from 'react'
 export default function Header() {
@@ -18,7 +18,6 @@ export default function Header() {
                 navitems.map((item) =>item)
 
             }
-
 
 
         </div>
